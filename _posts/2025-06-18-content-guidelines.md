@@ -8,8 +8,10 @@ tags: [distribution, guidelines, artwork, audio, isrc, licensing, content-id, ar
 ---
 > These guidelines are not comprehensive and each platform has their own guidelines. If content delivered does not meet a specific platform's guidelines, it may be rejected.
 {: .prompt-danger }
+
 ---
-> ## Cover Images
+
+## Cover Images
 - Must be a square image.  
 - Cannot be stretched, upscaled, or appear to be low-resolution.  
 - Recommended size: **3000x3000**. Minimum size: **1400x1400**.  
@@ -76,7 +78,7 @@ tags: [distribution, guidelines, artwork, audio, isrc, licensing, content-id, ar
 
 ## Artist Guidelines
 
-- All content must be uploaded under an artist account which you control and represent.  
+- All content **must** be uploaded under an artist account which you control and represent.  
 - SoundBloom will automatically flag all artists above an undisclosed popularity threshold and will need you to verify your affiliation.  
 - Content might accidentally end up under another artist’s page when uploaded if they have the same name. Contact your account manager to fix this problem.  
 - Required credit information, such as composer and lyricist, **must** be legal names. These names are sent to royalty collection agencies.
@@ -95,5 +97,5 @@ tags: [distribution, guidelines, artwork, audio, isrc, licensing, content-id, ar
 
 - Ensure that all content does not contain pornography, or promote hatred based on race, religion, gender, sexual orientation, or other identities.  
 - Do not use emojis in any metadata.  
-- Do not include version information in the title; use the separate 'version' field.  
+- Do not include version information in the title; use the separate version field.  
   - For example, do not put `God’s Plan (Radio Edit)` as the title, only put `God’s Plan`.
