@@ -47,7 +47,7 @@ tags: [distribution, guidelines, artwork, audio]
 - For free and public samples, we require the source where you obtained it. We can often clear the rights with the website directly.  
 - For remixes, you must have a remix license provided by the original rightsholder.  
 - For covers, you must have a mechanical license.  
-- All documentation must be verifiable with trusted agencies — i.e., don’t give a PDF that only says "song approved."
+- All documentation must be verifiable with trusted agencies (i.e., don’t give a PDF that only says "song approved.)"
 
 ---
 
@@ -70,7 +70,7 @@ tags: [distribution, guidelines, artwork, audio]
 - Podcasts  
 - Spoken word  
 
-- Only legitimate videos can be claimed. The common tactic of parasiting — adding a snippet of a distributed song to claim royalties on a longer video — is strictly prohibited.
+- Only legitimate videos can be claimed. The common tactic of parasiting (adding a snippet of a distributed song to claim royalties on a longer video) is strictly prohibited.
 
 ---
 
@@ -95,5 +95,5 @@ tags: [distribution, guidelines, artwork, audio]
 
 - Ensure that all content does not contain pornography, or promote hatred based on race, religion, gender, sexual orientation, or other identities.  
 - Do not use emojis in any metadata.  
-- Do not include version information in the title — use the separate version field.  
+- Do not include version information in the title; use the separate 'version' field.  
   - For example, do not put `God’s Plan (Radio Edit)` as the title, only put `God’s Plan`.
