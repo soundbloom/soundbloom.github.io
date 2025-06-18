@@ -3,7 +3,7 @@ layout: post
 title: Digital Distribution Checklist
 date: 2025-06-18 23:00:00
 author: soundbloom
-categories: [Distribution, Content Guidelines]
+categories: [Distribution, Checklist]
 tags: [music-distribution, digital-release, metadata, artwork, isrc, licensing, streaming, promotion, royalties]
 ---
 # Digital Distribution Checklist for Music Distributors
