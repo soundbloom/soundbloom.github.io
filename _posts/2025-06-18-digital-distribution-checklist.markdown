@@ -1,6 +1,15 @@
+---
+layout: post
+title: Digital Distribution Checklist
+date: 2025-06-18 23:00:00
+author: soundbloom
+categories: [Distribution, Content Guidelines]
+tags: [music-distribution, digital-release, metadata, artwork, isrc, licensing, streaming, promotion, royalties]
+---
 # Digital Distribution Checklist for Music Distributors
 
-This checklist ensures a smooth and effective digital music distribution process for artists and labels. Follow these steps to prepare, distribute, and promote your music across platforms.
+> This checklist ensures a smooth and effective digital music distribution process for artists and labels. Follow these steps to prepare, distribute, and promote your music across platforms.
+{: .prompt-tip }
 
 ## Pre-Release Preparation
 - **Audio Files**
@@ -68,6 +77,3 @@ This checklist ensures a smooth and effective digital music distribution process
 - **Catalog Management**
   - Archive older releases for organization.
   - Plan future releases to maintain momentum.
-
-> This checklist streamlines the digital distribution process, ensuring your music reaches fans efficiently while maximizing exposure and revenue.
-{: .prompt-tip }
