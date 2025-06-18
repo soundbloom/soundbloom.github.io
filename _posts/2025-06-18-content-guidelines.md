@@ -6,6 +6,9 @@ author: soundbloom
 categories: [Distribution, Content Guidelines]
 tags: [distribution, guidelines, artwork, audio]
 ---
-<blockquote class="prompt-danger">
-  <p>An example showing the <code>danger</code> type prompt.</p>
-</blockquote>
+# SoundBloom General Content Guidelines
+## Cover Images
+Text
+
+> An example showing the <code>danger</code> type prompt.
+{: .prompt-danger }
