@@ -1,5 +1,4 @@
 ---
-layout: post
 title: CONTENT GUIDELINES
 date: 2025-06-18 23:30:00
 categories: [Distribution, Content Guidelines]
