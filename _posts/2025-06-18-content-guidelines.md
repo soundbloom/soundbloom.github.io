@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CONTENT GUIDELINES
+title: Content Guidelines
 date: 2025-06-18 23:30:00
 author: soundbloom
 categories: [Distribution, Content Guidelines]
