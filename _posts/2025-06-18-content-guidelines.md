@@ -6,8 +6,10 @@ author: soundbloom
 categories: [Distribution, Content Guidelines]
 tags: [distribution, guidelines, artwork, audio]
 ---
-# SoundBloom General Content Guidelines
-## Cover Images
+> These guidelines are not comprehensive and each platform has their own guidelines. If content delivered does not meet a specific platform's guidelines, it may be rejected.
+{: .prompt-danger }
+---
+> ## Cover Images
 - Must be a square image.  
 - Cannot be stretched, upscaled, or appear to be low-resolution.  
 - Recommended size: **3000x3000**. Minimum size: **1400x1400**.  
@@ -51,8 +53,8 @@ tags: [distribution, guidelines, artwork, audio]
 
 ## Content ID Guidelines
 
-- There are separate guidelines for content delivered to YouTube Content ID, Facebook, Mixcloud, TikTok, and the SoundBloom Copyrighter.  
-- All content must be 100% owned by the client. This means public content, leased content, purchased content, etc. cannot be put on Content ID platforms.  
+- There are separate guidelines for content delivered to YouTube Content ID, Facebook, Mixcloud, TikTok, and the SoundBloom Content Match.  
+- All content must be fully owned by you (the Artist), or you must hold all necessary rights and permissions to distribute it (as a Label). Content that is public, leased, purchased, or otherwise not exclusively owned is not eligible for delivery to Content ID platforms.
 
 ### Disallowed Content List:
 
@@ -68,7 +70,7 @@ tags: [distribution, guidelines, artwork, audio]
 - Podcasts  
 - Spoken word  
 
-- Only legitimate videos can be claimed. The common tactic of parasiting — adding a snippet of a distributed song to claim royalties on a longer video — is prohibited.
+- Only legitimate videos can be claimed. The common tactic of parasiting — adding a snippet of a distributed song to claim royalties on a longer video — is strictly prohibited.
 
 ---
 
@@ -76,14 +78,14 @@ tags: [distribution, guidelines, artwork, audio]
 
 - All content must be uploaded under an artist account which you control and represent.  
 - SoundBloom will automatically flag all artists above an undisclosed popularity threshold and will need you to verify your affiliation.  
-- Content might accidentally end up under another artist’s page when uploaded if they have the same name. Contact your account rep to fix this problem.  
-- Required credit information, such as composer and lyricist, must be legal names. These names are sent to royalty collection agencies.
+- Content might accidentally end up under another artist’s page when uploaded if they have the same name. Contact your account manager to fix this problem.  
+- Required credit information, such as composer and lyricist, **must** be legal names. These names are sent to royalty collection agencies.
 
 ---
 
 ## Artificial Streams
 
-- The client is responsible for all penalties incurred from artificial streaming on their content, such as the Spotify and Apple $10 artificial streaming fee.  
+- You are responsible for all penalties incurred from artificial streaming on your content.
 - Any artificially streamed content will be removed from all platforms.  
 - To prevent artificial streaming, do not pay for any service that promises you streams, playlist adds, or any illegitimate form of boosting.
 
@@ -95,16 +97,3 @@ tags: [distribution, guidelines, artwork, audio]
 - Do not use emojis in any metadata.  
 - Do not include version information in the title — use the separate version field.  
   - For example, do not put `God’s Plan (Radio Edit)` as the title, only put `God’s Plan`.
-
----
-
-## Account Status
-
-- SoundBloom reserves the right to revoke your access to any supported platforms if you violate these guidelines.  
-- SoundBloom reserves the right to terminate your deal entirely for egregious violations.  
-- If parasiting behavior is found on any Content ID platform, SoundBloom will revoke your access to all Content ID tools.
-
----
-
-> These guidelines are not comprehensive and each platform has their own guidelines. If content delivered does not meet a specific platform's guidelines, it may be rejected.
-{: .prompt-danger }
