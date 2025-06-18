@@ -4,7 +4,7 @@ title: Content Guidelines
 date: 2025-06-18 22:00:00
 author: soundbloom
 categories: [Distribution, Content Guidelines]
-tags: [distribution, guidelines, artwork, audio]
+tags: [distribution, guidelines, artwork, audio, isrc, licensing, content-id, artificial-streaming, metadata, legal, compliance]
 ---
 > These guidelines are not comprehensive and each platform has their own guidelines. If content delivered does not meet a specific platform's guidelines, it may be rejected.
 {: .prompt-danger }
