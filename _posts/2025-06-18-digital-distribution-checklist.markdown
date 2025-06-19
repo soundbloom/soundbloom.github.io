@@ -6,7 +6,7 @@ author: soundbloom
 categories: [Distribution, Checklist]
 tags: [music-distribution, digital-release, metadata, artwork, isrc, licensing, streaming, promotion, royalties]
 ---
-# Digital Distribution Checklist for Music Distributors
+# Digital Distribution Checklist
 
 > This checklist ensures a smooth and effective digital music distribution process for artists and labels. Follow these steps to prepare, distribute, and promote your music across platforms.
 {: .prompt-tip }
