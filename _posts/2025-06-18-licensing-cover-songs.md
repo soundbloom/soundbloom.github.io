@@ -75,13 +75,13 @@ Before submitting your cover songs for licensing:
 
 ## Getting Started
 
-Ready to license your cover songs for distribution? Easy Song's streamlined process takes the complexity out of mechanical licensing, letting you focus on creating music while they handle the legal requirements.
+If you're planning to distribute cover songs through our platform, you'll need to obtain mechanical licenses before uploading your tracks. Without proper licensing documentation, your release will be rejected during our review process.
 
 **[Get your cover songs licensed with Easy Song →](https://www.easysong.com/?PartnerID=392)**
 
-Their experienced team will guide you through the process and answer any questions about your specific licensing needs. With over a decade of experience in mechanical licensing, they've helped thousands of artists legally distribute their cover songs across all major platforms.
+Easy Song handles the licensing process and provides the PDF documentation required for distribution approval. Their service covers the legal requirements so you can move forward with your release timeline.
 
-Remember: proper licensing isn't just about legal compliance, it's about respecting the creative work of other artists while protecting your own musical career. Take the time to do it right, and you'll avoid costly complications down the road.
+Once you have your licensing documentation, you can proceed with uploading your cover songs through our standard distribution process. Make sure to keep your licensing proofs accessible, as you may need to reference them during the submission process or for future releases.
 
 ---
 
