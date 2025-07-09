@@ -32,7 +32,7 @@ More importantly, distributing unlicensed cover songs can result in:
 
 Contacting publishers and navigating copyright law can be overwhelming, especially when dealing with multiple songs or hard-to-reach copyright holders. This is where specialized licensing services become invaluable.
 
-**Easy Song** handles the entire mechanical licensing process for artists and labels. Their team works under the Compulsory Mechanical Licensing Law, which means they can secure licenses for virtually any song, even when publishers might otherwise refuse direct requests.
+**[Easy Song](https://www.easysong.com/?PartnerID=392)** handles the entire mechanical licensing process for artists and labels. Their team works under the Compulsory Mechanical Licensing Law, which means they can secure licenses for virtually any song, even when publishers might otherwise refuse direct requests.
 
 ### How It Works
 
