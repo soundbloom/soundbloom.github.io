@@ -5,8 +5,6 @@ date: 2025-07-09 23:00:00
 author: soundbloom
 categories: [Distribution, Royalties]
 tags: [streaming-royalties, music-revenue, spotify, apple-music, youtube, mechanical-royalties, performance-royalties, payout-timeline, music-distribution, artist-earnings]
-math: true
-mermaid: true
 ---
 
 > Understanding how streaming royalties work can help you make better decisions about your music career and set realistic expectations for your earnings.
