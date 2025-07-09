@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding Your Streaming Royalties: Where Your Money Comes From"
-date: 2025-07-09 22:00:00
+date: 2025-07-10 14:00:00
 author: soundbloom
 categories: [Distribution, Royalties]
 tags: [streaming-royalties, music-revenue, spotify, apple-music, youtube, mechanical-royalties, performance-royalties, payout-timeline, music-distribution, artist-earnings]
@@ -71,29 +71,16 @@ Also called "related rights," these royalties compensate performers and sound re
 
 ## Payout Timelines and Schedules
 
-```mermaid
-gantt
-    title Streaming Royalty Payment Timeline
-    dateFormat  YYYY-MM-DD
-    section Streaming Activity
-    Music Streamed           :done, streams, 2025-01-01, 31d
-    section Platform Processing  
-    Data Compilation         :done, compile, after streams, 30d
-    Royalty Calculation      :done, calc, after compile, 15d
-    section Distributor Processing
-    Payment to Distributor   :done, dist, after calc, 15d
-    Processing & Verification:done, verify, after dist, 15d
-    section Artist Payment
-    Payment to Artist        :payment, after verify, 1d
-```
-
 ### Monthly Reporting Cycles
-Most streaming platforms operate on monthly cycles:
 
-1. **Month 1**: Your music is streamed
-2. **Month 2**: Platforms compile data and calculate royalties  
-3. **Month 3**: Distributors receive payments from platforms
-4. **Month 4**: You receive payment from your distributor
+The typical payment flow follows this timeline:
+
+| Month | Activity | Details |
+|:------|:---------|:--------|
+| Month 1 | **Music Streamed** | Your songs are played by listeners |
+| Month 2 | **Data Compilation** | Platforms compile stream counts and calculate royalties |
+| Month 3 | **Platform to Distributor** | Streaming services pay distributors |
+| Month 4 | **Distributor to Artist** | You receive your royalty payment |
 
 > The 60-90 day delay between streams and payments is industry standard and allows time for data verification and fraud prevention.
 {: .prompt-info }
