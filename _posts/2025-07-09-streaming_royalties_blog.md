@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding Your Streaming Royalties: Where Your Money Comes From"
-date: 2025-07-10 14:00:00
+date: 2025-07-09 23:00:00
 author: soundbloom
 categories: [Distribution, Royalties]
 tags: [streaming-royalties, music-revenue, spotify, apple-music, youtube, mechanical-royalties, performance-royalties, payout-timeline, music-distribution, artist-earnings]
