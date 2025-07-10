@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About SoundBloom
-
 SoundBloom is a music distribution service built for independent artists and labels who want to share their music with the world. We help musicians get their tracks on major streaming platforms like Spotify, Apple Music, YouTube Music, and dozens more.
 
 ## What We Do
