@@ -13,13 +13,13 @@ We handle the technical side of music distribution so you can focus on what matt
 - **Digital Distribution**: Getting your music on all major streaming platforms and digital stores
 - **Rights Management**: Helping you secure proper licensing for covers and samples
 - **Analytics**: Providing insights into how your music performs across platforms
-- **Support**: Offering guidance throughout the distribution process
+- **Dedicated Support**: Offering guidance throughout the distribution process
 
 ## Our Mission
 
 We believe every artist deserves the opportunity to reach their audience, regardless of their experience level or budget. That's why we've built a distribution service that's both powerful and accessible, with clear guidelines and straightforward processes.
 
-## Why Artists Choose SoundBloom
+## Why Artists & Labels Choose SoundBloom
 
 - **Transparent Process**: No hidden fees or confusing terms
 - **Quality Standards**: We maintain high standards to protect your music and reputation
