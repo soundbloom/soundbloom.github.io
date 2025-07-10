@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cover Song Licensing"
-date: 2025-07-09 10:00:00
+date: 2025-07-08 10:00:00
 author: soundbloom
 categories: [Distribution, Licensing]
 tags: [cover-songs, mechanical-licensing, music-distribution, legal-requirements, isrc, royalties, copyright, easy-song]
