@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Distribution Checklist
-date: 2025-06-18 23:00:00
+date: 2025-06-19 23:00:00
 author: soundbloom
 categories: [Distribution, Checklist]
 tags: [music-distribution, digital-release, metadata, artwork, isrc, licensing, streaming, promotion, royalties]
@@ -77,3 +77,7 @@ tags: [music-distribution, digital-release, metadata, artwork, isrc, licensing, 
 - **Catalog Management**
   - Archive older releases for organization.
   - Plan future releases to maintain momentum.
+
+---
+
+*Want to work with a distributor that puts artists first?* **[Apply to join SoundBloom →](https://soundbloom.io/apply)**
