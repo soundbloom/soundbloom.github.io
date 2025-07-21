@@ -382,7 +382,6 @@ Playlists with fake followers hurt your streaming metrics and credibility.
 
 ### Over-Reliance on Playlists
 
-**Playlist Tunnel Vision**
 Don't make playlist placement your primary career focus:
 - Spending more time pitching than creating music
 - Measuring success solely by playlist metrics
