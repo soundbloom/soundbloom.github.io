@@ -275,7 +275,7 @@ Maintain professional relationships even when you don't get featured:
 
 ### SubmitHub
 
-SubmitHub connects artists with curators through a paid submission system:
+[SubmitHub](https://www.submithub.com/partner/soundbloom) connects artists with curators through a paid submission system:
 
 **Advantages**
 - Direct access to verified curators
